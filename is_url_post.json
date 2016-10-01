@@ -1,0 +1,12 @@
+[
+  {
+    "id": "123-def",
+    "header": {
+      "message": "is_url"
+    },
+    "body": {
+      "value":"http://www.gmail.com"
+
+    }
+  }
+]

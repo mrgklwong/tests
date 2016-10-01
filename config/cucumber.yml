@@ -1,0 +1,1 @@
+test: --color -r features -f html -o test.html -f pretty
